@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ![Ilham Dwi Arifin](img/Banner.png)
 
@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h4 align="left">👋 Hi, I'm Ilham<br><br>I am a Junior Developer currently pursuing my studies at a university. I have a strong interest in Web Development, UI/UX Design, and Mobile Development, and I am continuously working to improve my skills in the tech field.<br><br>I am highly motivated to learn more about application development and user experience, from creating visually appealing interfaces to building functional and efficient systems. For me, technology is not just about writing code, but also about delivering meaningful and user-centered solutions.<br><br>🚀 I am currently focusing on strengthening my skills in web development, UI/UX design, and mobile app development, and I am open to learning new technologies and collaborating on exciting projects.</h4>
+<h4 align="left">I'm Ilham<br><br>I am a Junior Developer currently pursuing my studies at a university. I have a strong interest in Web Development, UI/UX Design, and Mobile Development, and I am continuously working to improve my skills in the tech field.<br><br>I am highly motivated to learn more about application development and user experience, from creating visually appealing interfaces to building functional and efficient systems. For me, technology is not just about writing code, but also about delivering meaningful and user-centered solutions.<br><br>🚀 I am currently focusing on strengthening my skills in web development, UI/UX design, and mobile app development, and I am open to learning new technologies and collaborating on exciting projects.</h4>
 
 ###
 
