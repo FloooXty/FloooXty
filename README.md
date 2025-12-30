@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">I code with</h2>
+<h1 align="left">I code with</h1>
 
 ###
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">Let's Play With Me</h3>
+<h2 align="left">Let's Play With Me</h2>
 
 ###
 
