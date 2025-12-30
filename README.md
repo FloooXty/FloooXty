@@ -1,5 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ![Ilham Dwi Arifin](img/Banner.png)
 
 <!--
@@ -16,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+###
 
 
 ###
@@ -45,6 +46,10 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
+
+###
+
+<h3 align="left">Let's Play With Me</h3>
 
 ###
 
